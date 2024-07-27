@@ -1,4 +1,4 @@
-# Edge TTS语音转文字
+# Edge TTS文字转语音
 Edge TTS库的图形化界面
 
 # 功能
